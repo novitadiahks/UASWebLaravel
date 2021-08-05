@@ -1,0 +1,11 @@
+Nama :  Novita Diah Kurnia Sari 201810370311303
+	Nabil Ghusman 201810370311304
+	Akbaruddin Nurullah 201810370311306
+	Daffa Eza Prasetya 201810370311309
+	Gani Adi Wiranata 201810370311310
+
+Email: admin@admin
+Pass: admin
+
+- Import web.sql
+- Dapat juga menambahkan user di halaman register
